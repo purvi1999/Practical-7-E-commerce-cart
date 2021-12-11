@@ -1,0 +1,44 @@
+* {
+  padding: auto;
+}
+.header {
+  background-color: black;
+  color: white;
+  padding: 1px;
+  text-align: center;
+}
+.img {
+  border: 3px solid black;
+  float: left;
+}
+.btn_add {
+  margin: 10px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+}
+.btn_remove {
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+span {
+  background-color: red;
+  color: white;
+  padding: 2px;
+}
+.product_heading {
+  color: #f95800;
+}
+.card-effect {
+  background-color: #f3aa4e;
+  border-radius: 5px 5px 0 0;
+  padding: 10px;
+  margin: 2px;
+}
+.clear {
+  clear: both;
+}
